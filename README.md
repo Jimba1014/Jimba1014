@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+###About Me 😄
+Software Engineer experienced in Ruby on Rails and JavaScript based programming. Over 7+ years of professional experience in elementary and music education that included curriculum development, teaching, communication, project-management, and one-on-one support. Thrive when challenged to create innovative solutions to complex technical problems. Excited to build on success in customer experience, relationship building and technical know-how to contribute to a future company.
+
 <!--
 **Jimba1014/Jimba1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
